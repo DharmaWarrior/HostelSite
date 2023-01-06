@@ -1,5 +1,8 @@
 # AirBnb
+### Preview of My Project
+[Prototyp.webm](https://user-images.githubusercontent.com/97218268/211038470-eaaf2427-8273-45f7-9ce9-c0994bc8e582.webm)
 
+## About
 I have created this AirBnb Clone using React and JavaScript .
 
 The steps to run:

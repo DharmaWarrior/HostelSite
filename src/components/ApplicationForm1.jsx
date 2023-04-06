@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import backgroundImage from 'C:/Users/asus/Desktop/Web Dev Projects/Hostel/src/images/Ketie-Zafares.png';
+import backgroundImage from '../images/Ketie-Zafares.png';
 import { Link } from "react-router-dom";
 
 function ApplicationForm() {
